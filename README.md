@@ -4,5 +4,4 @@
 - Aqui estão meus testes, atividades dos cursos, e ideias novas.
 
 - Linkedin: https://www.linkedin.com/in/noele-m-9654b3228/
-- https://codepen.io/Noele-Maria
-  
+- CodePen: https://codepen.io/Noele-Maria  
